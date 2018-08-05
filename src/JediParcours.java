@@ -85,6 +85,10 @@ public class JediParcours {
 
     }
 
+     //dit algo nog sneller te maken door te kijken als het niet meer convergeert
+     // dan kunnen we gewoon returen 'plus oneindig' waarschijnlijk
+
+
 
 
 

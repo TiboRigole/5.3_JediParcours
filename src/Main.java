@@ -1,10 +1,7 @@
 import java.util.Scanner;
 
 
-//https://stackoverflow.com/questions/15681885/bellman-ford-algorithm-in-java
 //https://www.geeksforgeeks.org/dynamic-programming-set-23-bellman-ford-algorithm/
-//https://gist.github.com/nodirt/4b780f5d0bc4e0fe1b8b
-
 //Bellman ford algoritme
 //dit algoritme heeft als objecten de pijlen van A naar B
 //dus niet zoals in keigraaf, dat elke node een object is
