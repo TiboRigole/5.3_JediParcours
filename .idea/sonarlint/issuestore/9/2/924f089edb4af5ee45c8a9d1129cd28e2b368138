@@ -1,0 +1,11 @@
+
+Vsquid:S1197"8Move the array designator from the variable to the type.(ßöÓœ8ï¯ªĞ,
+Ysquid:S1481"6Remove this unused "aantalKnoopPunten" local variable.(±³…ûÿÿÿÿ8ï¯ªĞ,
+asquid:S1854"CRemove this useless assignment to local variable "verbindingBegin".(™²‚í8¹ÍÃªĞ,
+Ssquid:S1481"0Remove this unused "strafPunten" local variable.(Ê…Ÿÿûÿÿÿÿ8¹ÍÃªĞ,
+bsquid:S1854!"?Remove this useless assignment to local variable "strafPunten".(‰À‹ƒÿÿÿÿÿ8¹ÍÃªĞ,
+esquid:S1854 "BRemove this useless assignment to local variable "verbindingEind".(¬»ë™şÿÿÿÿ8¹ÍÃªĞ,
+hsquid:S1854"ERemove this useless assignment to local variable "aantalKnoopPunten".(±³…ûÿÿÿÿ8ï¯ªĞ,
+1squid:S1220""Move this file to a named package.
+Vsquid:S1481"3Remove this unused "verbindingEind" local variable.(©”Ğ·üÿÿÿÿ8¹ÍÃªĞ,
+Rsquid:S1481"4Remove this unused "verbindingBegin" local variable.(›™Åª8¹ÍÃªĞ,
