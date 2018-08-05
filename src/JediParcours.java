@@ -68,14 +68,14 @@ public class JediParcours {
             if (afstanden[van-1] != Integer.MAX_VALUE &&
                     afstanden[van-1]+gewicht < afstanden[naar-1] ){
 
-                return "negatief";
+                return "min oneindig";
 
             }
 
 
         }
         //als er een gewoon resultaat is
-
+        if(afstanden[aantalKnoopPunten-1] == Integer.MAX_VALUE){return "plus oneindig";}
         return afstanden[aantalKnoopPunten-1]+"";
 
 

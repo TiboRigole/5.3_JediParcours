@@ -52,11 +52,7 @@ public class Main {
             }//einde van de input
 
             String kortstepad = jediParcours.bellmanFord();
-            System.out.println(kortstepad);
-
-
-
-
+            System.out.println(testGevalId+1 +" "+kortstepad);
 
 
 
